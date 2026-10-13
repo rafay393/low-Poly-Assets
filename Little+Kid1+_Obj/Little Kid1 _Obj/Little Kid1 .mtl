@@ -1,0 +1,197 @@
+# Blender 4.3.2 MTL File: 'Little Kid 1PBR Bake.blend'
+# www.blender.org
+
+newmtl GoZMesh_Default_Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/GoZMesh_Default_Material_Diffuse.png
+map_Ns C:/GoZMesh_Default_Material_roughness.png
+map_refl C:/GoZMesh_Default_Material_metallic.png
+map_Bump -bm 1.000000 C:/GoZMesh_Default_Material_Normal.png
+
+newmtl Hair_Acc
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Hair_Acc_Diffuse.tga
+map_Ns C:/Hair_Acc_roughness.tga
+map_refl C:/Hair_Acc_metallic.tga
+map_d C:/Hair_Acc_Diffuse.tga
+map_Bump -bm 1.000000 C:/Hair_Acc_Normal.tga
+
+newmtl Hair_Transparency
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Hair_Transparency_Diffuse.jpg
+map_Ns C:/Hair_Transparency_roughness.jpg
+map_refl C:/Hair_Transparency_metallic.jpg
+map_d C:/Hair_Transparency_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Hair_Transparency_Normal.jpg
+
+newmtl Material_001_002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Material_001_002_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Material_001_002_Normal.jpg
+
+newmtl Std_Cornea_L
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Std_Eye_R_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Cornea_R_ScleraN.png
+
+newmtl Std_Cornea_R
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Std_Eye_R_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Cornea_R_ScleraN.png
+
+newmtl Std_Eye_L
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Eye_R_Diffuse.jpg
+map_Ns C:/Std_Eye_R_roughness.png
+map_refl C:/Std_Eye_R_metallic.jpg
+map_d C:/Std_Eye_R_Opacity.png
+
+newmtl Std_Eye_R
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Eye_R_Diffuse.jpg
+map_Ns C:/Std_Eye_R_roughness.png
+map_refl C:/Std_Eye_R_metallic.jpg
+map_d C:/Std_Eye_R_Opacity.png
+
+newmtl Std_Eyelash
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Eyelash_Diffuse.jpg
+map_Ns C:/Std_Eyelash_roughness.jpg
+map_refl C:/Std_Eyelash_metallic.jpg
+map_d C:/Std_Eyelash_Opacity.jpg
+map_Bump -bm 1.000000 C:/Std_Eyelash_Normal.png
+
+newmtl Std_Lower_Teeth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Lower_Teeth_Diffuse.jpg
+map_d C:/Std_Lower_Teeth_Opacity.png
+map_Bump -bm 1.000000 C:/Std_Lower_Teeth_Normal.jpg
+
+newmtl Std_Nails
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Nails_Diffuse.jpg
+map_Ns C:/Std_Nails_roughness.jpg
+map_d C:/Std_Nails_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Nails_Normal.png
+
+newmtl Std_Skin_Arm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Skin_Arm_Diffuse.jpg
+map_d C:/Std_Skin_Arm_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Skin_Arm_Normal.png
+
+newmtl Std_Skin_Body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Skin_Body_Diffuse.jpg
+map_refl C:/Std_Skin_Body_metallic.jpg
+map_d C:/Std_Skin_Body_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Skin_Body_Normal.png
+
+newmtl Std_Skin_Head
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Skin_Head_Diffuse.jpg
+map_refl C:/Std_Skin_Head_metallic.jpg
+map_d C:/Std_Skin_Head_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Skin_Head_Normal.png
+
+newmtl Std_Skin_Leg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Skin_Leg_Diffuse.jpg
+map_refl C:/Std_Skin_Leg_metallic.jpg
+map_d C:/Std_Skin_Leg_Diffuse.jpg
+map_Bump -bm 1.000000 C:/Std_Skin_Leg_Normal.png
+
+newmtl Std_Tongue
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Std_Tongue_Diffuse.jpg
+map_refl C:/Std_Tongue_metallic.png
+map_Bump -bm 1.000000 C:/Std_Tongue_Normal.png
+
+newmtl Std_Upper_Teeth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Std_Upper_Teeth_Diffuse.jpg
+map_d C:/Std_Upper_Teeth_Opacity.png
+map_Bump -bm 1.000000 C:/Std_Upper_Teeth_Normal.jpg
